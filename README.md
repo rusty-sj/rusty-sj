@@ -23,7 +23,7 @@ Hello, my name is Rashmi Jadhav and I am a master's student at [Oregon State Uni
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: rsjcoepit@gmail.com
 - 😄 Pronouns: Programmer/She/Her/Hers
-- ⚡ Fun fact: My [Lean2Lead Pune](linkedin.com/in/lean2lead-pune-bbb92a169) Community has influenced me to carry the grit towards my ambitions
+- ⚡ Fun fact: My [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community has influenced me to carry the grit towards my ambitions
 - 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
 
 **Languages and Tools:** 

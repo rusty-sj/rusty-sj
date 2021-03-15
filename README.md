@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 Hello, my name is Rashmi Jadhav and I am a master's student at [Oregon State University](https://eecs.oregonstate.edu/) majoring in Computer Science. I am a full-stack software developer with three years of experience working as a Software Engineer at [eQ Technologic India Pvt. Ltd.](https://www.1eq.com/) My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
 
-- 🔭 I’m currently researching on online join algorithms at the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
-- 💻 I’m currently working on my Competitive Programming skills
-- 🌱 I’m currently exploring Machine Learning and Artificial Intelligence
+- 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: rsjcoepit@gmail.com
 - 😄 Pronouns: Programmer/She/Her/Hers
-- ⚡ Fun fact: My [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community has influenced me to carry the grit towards my ambitions
+- ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
 - 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
 
 **Languages and Tools:** 
